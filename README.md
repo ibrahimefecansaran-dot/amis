@@ -1,3 +1,5 @@
+şs,
+
 AMIS is a desktop application for reading DAISY 2.02 and DAISY 3 books.
 
 It is pronounced "Ah-mee", as in the French word for "friend".
